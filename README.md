@@ -1,0 +1,2 @@
+# tyopaja
+Git versionhallinta - työpaja
